@@ -12,7 +12,7 @@ In the banking industry, **transparency** is as important as accuracy.
 * **Challenge:** Deep Learning models often act as "Black Boxes", making it hard to explain to a customer (or a regulator) why a loan was denied.
 * **Solution:** Using Decision Trees allows us to visualize the exact rule-set used for the decision, ensuring compliance with "Right to Explanation" standards.
 
-## 📊 Key Insights & Visuals
+## Key Insights & Visuals
 The model revealed an interesting pattern in the synthetic data: **"Cash is King"**.
 Contrary to popular belief, **Annual Income** proved to be the primary decision factor (Root Node), effectively filtering candidates before even considering their Credit Score.
 
@@ -36,7 +36,7 @@ Following software engineering best practices, this project includes a dependenc
     ```
 2.  **Navigate to the project directory:**
     ```bash
-    cd [NOMBRE-DEL-REPO]
+    cd Credit-Approval-Decision-Tree
     ```
 3.  **Install dependencies:**
     ```bash
