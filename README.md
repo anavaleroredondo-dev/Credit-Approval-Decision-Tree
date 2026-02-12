@@ -20,7 +20,6 @@ Contrary to popular belief, **Annual Income** proved to be the primary decision 
 Below is the logic flow the AI learned to approve/reject loans:
 
 ![Decision Tree Logic](decision_tree.png)
-*(Note: Please ensure you upload the image of your tree to the repo with this filename)*
 
 ## Tech Stack
 * **Python 3.x**
